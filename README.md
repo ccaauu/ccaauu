@@ -3,14 +3,14 @@
 ![Animated Image](https://bs.ueuicdn.com/blog/wp-content/uploads/2018/04/giphy.gif)
 
 ### Technologies and tools:
-[![Cauane-SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-[![Cauane-Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-[![Cauane-Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)
-[![Cauane-HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-[![Cauane-Js](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
-[![Cauane-CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-[![Cauane-VS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-[![Cauane-Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="40" alt="Selenium"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 
 ### GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=ccaauu&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true)](https://github.com/ccaauu)
