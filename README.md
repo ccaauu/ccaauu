@@ -1,32 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Cauane+Silva.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Cauane+Silva.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<img src="https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif" alt="Animated Image" align="right" width="200">
+![Animated Image](https://bs.ueuicdn.com/blog/wp-content/uploads/2018/04/giphy.gif)
 
 ### Technologies and tools:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cauane-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cauane-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cauane-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cauane-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cauane-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cauane-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div><br>
+[![Cauane-SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Cauane-Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+[![Cauane-Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)
+[![Cauane-HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+[![Cauane-Js](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+[![Cauane-CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+[![Cauane-VS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+[![Cauane-Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
 
 ### GitHub Stats
+[![](https://github-readme-stats.vercel.app/api?username=ccaauu&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true)](https://github.com/ccaauu)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaauu&layout=compact&langs_count=7&theme=one_dark_pro)](https://github.com/ccaauu)
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/ccaauu">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ccaauu&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ccaauu">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaauu&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
-    
 ### Contact
-
-<div> 
-  <a href="https://br.linkedin.com/in/cauane-silva-a00357325" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:ca321cauane@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/cauane-silva-a00357325)
+[![](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ca321cauane@gmail.com)
